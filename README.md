@@ -1,5 +1,5 @@
 ![FOXTC Logo](https://images2.imgbox.com/ef/85/XrvZC2Qn_o.png)
-# Fox-Quotes - A mod for Minecraft that overrides the defaulf splashes.txt with over two thousand quotes from our community, for use with the JCIR minecraft server.
+# Fox-Quotes - A mod for Minecraft that overrides the default splashes.txt with over two thousand quotes from our community, for use with the JCIR minecraft server.
 
 ## Extending a grand Thank you for the folks whom have contributed features and code (and overall just time and effort):
 - Bidahochi
