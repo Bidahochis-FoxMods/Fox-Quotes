@@ -33,7 +33,7 @@ configFile.withReader {
 }
 
 
-version = "1.0.0"
+version = "1.1.0"
 group= "src.foxQuotes" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
 archivesBaseName = "Fox-Quotes"
 

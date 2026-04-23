@@ -12,7 +12,7 @@ import foxQuotes.client.QuoteList;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-@Mod(modid = "fq", name = "Fox-Quotes", version = "1.0.0")
+@Mod(modid = "fq", name = "Fox-Quotes", version = "1.1.0")
 public class FoxQuotes {
     @Instance("fq")
     public static FoxQuotes instance;
