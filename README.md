@@ -1,4 +1,4 @@
-![FOXTC Logo](https://images2.imgbox.com/ef/85/XrvZC2Qn_o.png)
+![FOXTC Logo](https://coyoteindustries.neocities.org/imagery/foxquotes.png)
 # Fox-Quotes - A small mod for Minecraft that overrides the default splashes.txt with over two thousand quotes from our crackpot community, for use on the Bid Meier's Civilization II Server.
 # For legal reasons everything said here is a joke
 
