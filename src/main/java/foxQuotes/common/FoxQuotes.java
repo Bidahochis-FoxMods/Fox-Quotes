@@ -12,7 +12,7 @@ import foxQuotes.client.QuoteList;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-@Mod(modid = "fq", name = "Fox-Quotes", version = "1.2.0")
+@Mod(modid = "fq", name = "Fox-Quotes", version = "1.2.1")
 public class FoxQuotes {
     @Instance("fq")
     public static FoxQuotes instance;
@@ -21,14 +21,12 @@ public class FoxQuotes {
 
     @EventHandler
     public void preInit(FMLPreInitializationEvent event)
-    {
+    { }
 
-    }
     @EventHandler
     public void load(FMLInitializationEvent event)
-    {
+    { }
 
-    }
     @EventHandler
     public void postInit(FMLPostInitializationEvent evt)
     {
